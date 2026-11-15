@@ -3,7 +3,12 @@
 **Course:** Introduction to Data Science (IDSE)  
 **Project Title:** Outbreak Zero — Predictive Analytics & Zombie Classification  
 **Target Component:** Part B: Game for Learning Data Science Concepts (5 Marks)  
-**Repository Name:** `outbreak-zero-data-science-game`  
+**Repository Name:** `IDSE_-GAME-`  
+
+### 👥 Project Team & Contributors
+- **SAI DATTATREYA ROUTHU** — `CS24I1037` (Lead ML Logic, Game Architecture & Normalization Engine)
+- **JAKKA ARJUN REDDY** — `CS24I1051` (UI/UX Tactical Interface, Canvas Visuals & Dynamic HUD)
+- **H VAMSHI** — `CS24I1063` (Epidemiological Scenarios, Pedagogical Design & Evaluation)
 
 ---
 

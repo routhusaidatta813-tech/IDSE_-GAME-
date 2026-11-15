@@ -1407,6 +1407,57 @@ input[type="range"]::-webkit-slider-thumb:hover {
   font-size: 1.2rem;
 }
 
+.title-team-credits {
+  background: rgba(15, 23, 42, 0.7);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 10px 14px;
+  width: 100%;
+  margin-top: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+
+.team-badge-header {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  letter-spacing: 1.5px;
+  color: var(--accent-cyan);
+  font-weight: 700;
+}
+
+.team-members-pills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.team-pill {
+  background: var(--bg-dark);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 4px;
+  padding: 4px 10px;
+  font-size: 0.74rem;
+  color: #f1f5f9;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.team-pill strong {
+  color: #fff;
+}
+
+.team-pill code {
+  color: var(--accent-amber);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 0.72rem;
+}
+
 .title-footer-note {
   font-size: 0.74rem;
   color: var(--text-dim);

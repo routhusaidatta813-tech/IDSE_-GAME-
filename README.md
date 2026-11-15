@@ -11,6 +11,16 @@
 
 ---
 
+## 👥 Project Team & Contributors
+
+| Student Name | Roll Number | Academic Role |
+| :--- | :---: | :--- |
+| **SAI DATTATREYA ROUTHU** | **CS24I1037** | Lead ML Logic, Game Architecture & Normalization Engine |
+| **JAKKA ARJUN REDDY** | **CS24I1051** | UI/UX Tactical Interface, Canvas Visuals & Dynamic HUD |
+| **H VAMSHI** | **CS24I1063** | Epidemiological Scenarios, Pedagogical Design & Evaluation |
+
+---
+
 ## 📑 Table of Contents
 1. [Educational Concept & Learning Objectives](#-educational-concept--formal-learning-objectives)
 2. [Why This Game? (Learning by Discovery vs. Rote Learning)](#-why-this-game-learning-by-discovery-vs-rote-learning)
